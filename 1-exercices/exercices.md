@@ -6,13 +6,12 @@
 
 1. Le but du jeu est que chacun travail sur une branche dédiée sur les mêmes fichiers donc nommez vos fichiers et dossiers à l'identique. Par contre le contenu doit être différent donc vous ne devez pas vous concertez pour avoir les mêmes recettes.
 
-2. Il doit toujours y avoir un écran partagé par binôme sur TEAMS.
-3. Je suis en soutien, n'hésitez pas à m'appeler **EN PREMIER** au-delà de 10 min sans trouver la solution en cas de blocage, incompréhension, application etc. avant d'aller voir sur Internet.
+2. Je suis en soutien, n'hésitez pas à m'appeler **EN PREMIER** au-delà de 10 min sans trouver la solution en cas de blocage, incompréhension, application etc. avant d'aller voir sur Internet.
 Vous avez aussi la possibilité de solliciter l'aide de toute personne volontaire via le canal dédié en mettant une capture d'écran accompagné de quelques mots pour expliquer dans le cas ou l'image ne suffit pas.
 
-4. Un temps est donné pour la réalisation de chaque partie.
+3. Un temps est donné pour la réalisation de chaque partie.
 
-5. **Pour la partie création des sandwichs, il est interdit au binôme de se concerter pour choisir les ingrédients à mettre dans vos fichiers cependant vous devez avoir absolument la même architecture au niveau des dossiers et avoir les mêmes noms pour les dossiers et fichiers.** Il n'est pas interdit d'avoir des sandwichs différents de votre collègue cependant vous devez en avoir au moins un commun uniquement au niveau du nom du fichier (même nom et arborescence mais contenu différent)
+4. **Pour la partie création des sandwichs, il est interdit au binôme de se concerter pour choisir les ingrédients à mettre dans vos fichiers cependant vous devez avoir absolument la même architecture au niveau des dossiers et avoir les mêmes noms pour les dossiers et fichiers.** Il n'est pas interdit d'avoir des sandwichs différents de votre collègue cependant vous devez en avoir au moins un commun uniquement au niveau du nom du fichier (même nom et arborescence mais contenu différent)
 
 ---
 
