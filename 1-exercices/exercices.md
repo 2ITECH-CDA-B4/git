@@ -108,5 +108,5 @@ Chaque modification doit donner lieu à un nouveau commit qui explique la raison
 
 4. Mergez toutes les branches une par une qui sont en rapport avec le sandiwch traité par votre collègue. Par exemple `feature/glodie/burger` avec `feature/pamela/burger`. 
 5. Résolvez les conflits et commitez.
-5. Mergez toutes les branches dans main ou master.
+5. Mergez toutes les branches dans main ou master pour constituer un menu avec tous vos sandwichs.
 6. Supprimez toutes les autres branches sauf la main ou master.
