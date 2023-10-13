@@ -102,10 +102,11 @@ Chaque modification doit donner lieu à un nouveau commit qui explique la raison
 
 2. En local, récupérez cette modification.
 
-3. En local, récupérez les branches de votre collegue.
+3. En local, récupérez les branches de votre collègue.
 - Au préalable, à l'aide d'une commande git, il faut se déplacer dans la branche qui porte le même nom que celui que vous devez récupérer depuis Github.
 - Ensuite à l'aide de la commande `git fetch`, vous pouvez récupérer toutes les modifications effectuées sur GitHub.
 
-4. Résolvez les conflits et commitez.
+4. Mergez toutes les branches une par une qui sont en rapport avec le sandiwch traité par votre collègue. Par exemple `feature/glodie/burger` avec `feature/pamela/burger`. 
+5. Résolvez les conflits et commitez.
 5. Mergez toutes les branches dans main ou master.
 6. Supprimez toutes les autres branches sauf la main ou master.
